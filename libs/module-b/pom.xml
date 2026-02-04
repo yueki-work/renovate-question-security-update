@@ -13,7 +13,7 @@
     <version>1.0.0</version>
     <name>Module B</name>
     <properties>
-        <log4j>2.23.1</log4j>
+        <log4j>2.25.3</log4j>
     </properties>
     <dependencies>
         <dependency>
